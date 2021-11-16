@@ -1,7 +1,7 @@
 {
   "name": "microverse-trials",
-  "version": "0.1.0",
   "homepage": "https://saied2035.github.io/microverse-trials",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^17.0.2",
