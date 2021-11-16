@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: lightgrey;
+}
+
+.links {
+    font-weight: bolder;
+    text-decoration: none;
+    margin: 5px;
+    color: black;
+}
