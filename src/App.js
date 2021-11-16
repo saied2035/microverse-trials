@@ -5,7 +5,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import ProductsScreen from "./pages/ProductsScreen";
 import AboutScreen from "./pages/AboutScreen";
 import HomeScreen from "./pages/HomeScreen";
-
+import 'tachyons'
 function App() {
   return (
     // <div className="App">
